@@ -105,18 +105,5 @@ while (continueCreation)
 }
 
 
-/*
-var createUser = function(userName, passWord) {
-
-
-}
-
-var loginUser = function(userName, passWord) {
-
-
-
-}
-*/
-
 
 
