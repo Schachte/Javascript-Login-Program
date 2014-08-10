@@ -4,8 +4,8 @@
 Description: Use loops and variables to build a basic login system that implements functions to ask teh user whether or not they want to login or make a new account
 */
 
-var userNameTable = ["username", "test"]; //Array to store the database of created usernames in
-var userPassTable = ["password", "passtest"]; //Array to store all of the passwords in
+var userNameTable = []; //Array to store the database of created usernames in
+var userPassTable = []; //Array to store all of the passwords in
 
 var continueCreation = true; //boolean to control whether or not the loop process should be continued
 
